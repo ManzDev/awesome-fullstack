@@ -1,15 +1,7 @@
-<style type="text/css">
-  tr { display: flex }
-  th { background: #555; color: #fff!important }
-</style>
+![Awesome FullStack List](awesome-logo.png)
+A list of curated resources related to FullStack (Frontend, Backend and DevOps)
 
-<div style="text-align:center">
-  <img src="awesome-logo.png" alt="Awesome FullStack List"><br>
-  A list of curated resources related to FullStack<br>
-  (Frontend, Backend and DevOps)
-</div>
-
-#### Legend
+### Legend
 
 * 📘 Post o article
 * 📙 Slide or presentation
@@ -30,6 +22,8 @@
 * 📜 Template
 * 🗻 Images-related
 * 💎 Valuable resource
+
+---
 
 # ⚡ VSCode / Editors
 
