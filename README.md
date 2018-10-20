@@ -90,8 +90,8 @@
 
 | Nombre    | Descripción |
 |-----------|-------------|
-| 🔨 [NPM](https://npmjs.com/) | NPM: Node Package Manager |
-| 🔨 [Yarn](https://yarnpkg.com/en/) | Yarn: Mejora del NPM |
+| 🔨 [NPM](https://npmjs.com/) | Node Package Manager |
+| 🔨 [Yarn](https://yarnpkg.com/en/) | NPM improved |
 
 ## Seguridad
 
@@ -134,7 +134,7 @@
 
 | Nombre    | Descripción |
 |-----------|-------------|
-| 💬 [StaticGen](https://www.staticgen.com/) | Static generator list |
+| 💬 [StaticGen](https://www.staticgen.com/) | Static webpage generator list |
 | 📂 [GetGrav](https://getgrav.org/) | Grav CMS |
 | 📂 [Docusaurus](https://docusaurus.io/) | Document page generator (Facebook) |
 | 📂 [Docz](https://www.docz.site/) | Documents page generator |
