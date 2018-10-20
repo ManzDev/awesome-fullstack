@@ -1,27 +1,17 @@
 ![Awesome FullStack List](awesome-logo.png)
-A list of curated resources related to FullStack (Frontend, Backend and DevOps)
+
+A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 ### Legend
 
-* 📘 Post o article
-* 📙 Slide or presentation
-* 📕 Book online
-* 🆓 Free resources
-* 📄 PDF or document
-* 📽️ Talk or video reference
+* 📘 Post o article / 📙 Slide or presentation / 📕 Book online
+* 🆓 Free resources / 📄 PDF or document / 📽️ Talk or video reference
 
-* 💬 List or collection website
-* 📂 CMS or manager
-* ☁ Cloud or CDN resource
+* 💬 List or collection / 📂 CMS or manager / ☁ Cloud or CDN resource
+* 🔨 Useful tool / 🔌 Plugin or extension / 🌟 Visual theme
 
-* 🔨 Tool
-* 🔌 Plugin or extension
-* 🌟 Themes
-
-* 📦 Bundlers or build tools
-* 📜 Template
-* 🗻 Images-related
-* 💎 Valuable resource
+* 📦 Bundlers or build tools / 📜 Template or configuration
+* 🗻 Images-related / 💎 Valuable resource
 
 ---
 
