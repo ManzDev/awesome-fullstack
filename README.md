@@ -40,19 +40,25 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 - 📄 [LenguajeHTML](https://lenguajehtml.com/) · HTML CheatSheet & Docs
 - 📙 [Guía rápida de EMMET](https://bit.ly/guiaemmet) · Fast tips and code for create HTML with EMMET
+- 🔨 [Pug](https://pugjs.org/) · Robust, elegant, feature rich template engine for Node.js
 
 ## CSS3
 
 - 📄 [LenguajeCSS](https://lenguajecss.com/) · CSS CheatSheet & Docs
 - 💎 [CanIUse](https://caniuse.com/) · Can I use this on my browser?
 - 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
-- 🔨 [Emotion CSS-in-JS](https://emotion.sh/) · The Next Generation of CSS-in-JS
+- 🔨 [StyleLint](https://stylelint.io/) · A mighty, modern linter that helps you avoid errors and enforce conventions in your styles
 
 ### PostCSS
 
 - 🔨 [PostCSS](https://postcss.org/) · Transform your CSS with JS
-- 🔌 [SugarSS](https://github.com/postcss/sugarss) · Indentation-based CSS syntax for PostCSS
-- 🔌 [PostCSS-trolling](https://github.com/juanfran/postcss-trolling) · Change all to Comic Sans font
+    - 🔌 [PostCSS-preset-env](https://preset-env.cssdb.org/) · Use tomorrow’s CSS today
+    - 🔌 [PostCSS-mixins](https://github.com/postcss/postcss-mixins) · PostCSS plugin for mixins (CSS functions)
+    - 🔌 [PostCSS-font-magician](https://github.com/jonathantneal/postcss-font-magician) · Magically generate all the @font-face rules
+    - 🔌 [PostCSS-easy-import](https://github.com/trysound/postcss-easy-import) · Inline @import rules content with extra features
+    - 🔌 [PostCSS-](https://github.com/leodido/postcss-clean) · PostCSS plugin to minify your CSS with clean-css
+    - 🔌 [SugarSS](https://github.com/postcss/sugarss) · Indentation-based CSS syntax for PostCSS
+    - 🔌 [PostCSS-trolling](https://github.com/juanfran/postcss-trolling) · Change all to Comic Sans font
 
 ## Javascript
 
@@ -61,6 +67,17 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 💎 [JavaScript Equaility Table Game](https://slikts.github.io/js-equality-game/) · JS Equality Game
 - 🔨 [Terser](https://github.com/terser-js/terser) · Javascript ES6 minifier
 - 💬 [30secondsofcode.org](https://30secondsofcode.org/) · Collection of Javascript snippets
+- 🔨 [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
+
+## React
+
+- 🔨 [ReactJS](https://reactjs.org/) · A JavaScript library for building user interfaces
+- 🔨 [Emotion CSS-in-JS](https://emotion.sh/) · The Next Generation of CSS-in-JS
+
+## Vue
+
+- 🔨 [VueJS](https://vuejs.org/) · A Progressive JavaScript Framework
+    - [Chrome VueJS extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) · DevTools extension for debugging Vue.js apps
 
 # ⚡ Back-end
 
@@ -79,8 +96,9 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 - 👨‍💻 [Bash-it](https://github.com/Bash-it/bash-it) · Framework for your Bash shell
 - 👨‍💻 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) · Framework for your zsh shell
-- 🔨 [GitHub](https://github.com/) · Largest community of developers and open source projects
-- 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
+- 🔨 [Git](https://git-scm.com/) · Control version
+    - 🔨 [GitHub](https://github.com/) · Largest community of developers and open source projects
+    - 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
 - 🔨 [HomeBrew](https://brew.sh/index_es.html) · Package Manager for MacOS
 - 🔨 [Chocolatey](https://chocolatey.org/) · Package Manager for Windows
 
@@ -88,7 +106,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 - 📦 [Webpack](https://webpack.js.org/) · Bundle your scripts, styles, assets, images and others. 
 - 📦 [ParcelJS](https://parceljs.org/) · Blazing fast zero config webapp bundler.
-- 📜 [Parcel Document Blank](https://github.com/ManzDev/parcel-document-blank) · Parcel template for front-end projects (with preprocessors)
+    - 📜 [Parcel Document Blank](https://github.com/ManzDev/parcel-document-blank) · Parcel template for front-end projects (with preprocessors)
+    - 🔌 [Parcel Bundle Visualiser](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) · A plugin for the parcel bundler to visualise bundle contents
 - 📦 [GulpJS](https://gulpjs.com/) · Runner and build tool
 - 💬 [Plugins para Gulp](https://gulpjs.com/plugins/) · List of Gulp plugins for multiple purposes
 
@@ -98,7 +117,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - ☁ [CloudFlare CDN](https://www.cloudflare.com/cdn/) · Fast and free global content delivery network
 - ☁ [MaxCDN](https://www.stackpath.com/maxcdn/) · Easy and economic content delivery network
 - ☁ [Docker](https://www.docker.com/) · Build, Manage and Secure your apps
-- ☁ [Kubernetes](https://kubernetes.io/) · Open source system for automating deployment, scaling and management containers
+    - ☁ [Docker Compose](https://docs.docker.com/compose/install/) · Tool for define and running multi-container Docker apps
+    - ☁ [Kubernetes](https://kubernetes.io/) · Open source system for automating deployment, scaling and management containers
 
 ## Static Web / CMS / Doc Generators
 
