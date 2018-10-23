@@ -39,7 +39,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## HTML5
 
 - 📄 [LenguajeHTML](https://lenguajehtml.com/) · HTML CheatSheet & Docs
-- [EMMET](https://emmet.io/) · Plugin for many popular text editors which greatly improves HTML & CSS workflow
+- 🔌 [EMMET](https://emmet.io/) · Plugin for many popular text editors which greatly improves HTML & CSS workflow
     - 📙 [Guía rápida de EMMET](https://bit.ly/guiaemmet) · Fast tips and code for create HTML with EMMET
 - 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
 - 🔨 [Pug](https://pugjs.org/) · Robust, elegant, feature rich template engine for Node.js
@@ -70,6 +70,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 💎 [JavaScript Equaility Table Game](https://slikts.github.io/js-equality-game/) · JS Equality Game
 - 🔨 [Terser](https://github.com/terser-js/terser) · Javascript ES6 minifier
 - 💬 [30secondsofcode.org](https://30secondsofcode.org/) · Collection of Javascript snippets
+- 💎 [ES6 Kangax Table](https://kangax.github.io/compat-table/es6/) · Kangax ES6 Compatibility table
 - 🔨 [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
 - 🔨 [BabelJS](https://babeljs.io/) · Use next generation JavaScript, today
 
@@ -101,8 +102,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 - 👨‍💻 [Bash-it](https://github.com/Bash-it/bash-it) · Framework for your Bash shell
 - 👨‍💻 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) · Framework for your zsh shell
-- [htrace.sh](https://github.com/trimstray/htrace.sh) · Simple shell script to debugging http/https connection tracing, response headers and mixed-content
-- [nGrok](https://ngrok.com/) · One command for an instant, secure URL to your localhost server through any NAT or firewall
+- 👨‍💻 [htrace.sh](https://github.com/trimstray/htrace.sh) · Simple shell script to debugging http/https connection tracing, response headers and mixed-content
+- 👨‍💻 [nGrok](https://ngrok.com/) · One command for an instant, secure URL to your localhost server through any NAT or firewall
 - 🔨 [Git](https://git-scm.com/) · Control version
     - 🔨 [GitHub](https://github.com/) · Largest community of developers and open source projects
     - 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
