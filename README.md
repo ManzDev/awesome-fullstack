@@ -39,14 +39,17 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## HTML5
 
 - 📄 [LenguajeHTML](https://lenguajehtml.com/) · HTML CheatSheet & Docs
-- 📙 [Guía rápida de EMMET](https://bit.ly/guiaemmet) · Fast tips and code for create HTML with EMMET
+- [EMMET](https://emmet.io/) · Plugin for many popular text editors which greatly improves HTML & CSS workflow
+    - 📙 [Guía rápida de EMMET](https://bit.ly/guiaemmet) · Fast tips and code for create HTML with EMMET
+- 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
 - 🔨 [Pug](https://pugjs.org/) · Robust, elegant, feature rich template engine for Node.js
 
 ## CSS3
 
 - 📄 [LenguajeCSS](https://lenguajecss.com/) · CSS CheatSheet & Docs
 - 💎 [CanIUse](https://caniuse.com/) · Can I use this on my browser?
-- 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
+- 🔨 [Sass](https://sass-lang.com/) · Mature, stable, and powerful professional grade CSS extension language
+- 🔨 [LESS](http://lesscss.org/) · Backwards-compatible language extension for CSS
 - 🔨 [StyleLint](https://stylelint.io/) · A mighty, modern linter that helps you avoid errors and enforce conventions in your styles
 
 ### PostCSS
@@ -68,6 +71,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🔨 [Terser](https://github.com/terser-js/terser) · Javascript ES6 minifier
 - 💬 [30secondsofcode.org](https://30secondsofcode.org/) · Collection of Javascript snippets
 - 🔨 [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
+- 🔨 [BabelJS](https://babeljs.io/) · Use next generation JavaScript, today
 
 ## React
 
@@ -77,12 +81,13 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## Vue
 
 - 🔨 [VueJS](https://vuejs.org/) · A Progressive JavaScript Framework
-    - [Chrome VueJS extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) · DevTools extension for debugging Vue.js apps
+    - 🔌 [Chrome VueJS extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) · DevTools extension for debugging Vue.js apps
 
 # ⚡ Back-end
 
 ## NodeJS
 
+- 🔨 [NodeJS](https://nodejs.org/) · JavaScript runtime built on Chrome's V8 JavaScript engine
 - 🔨 [NPM](https://npmjs.com/) · Node Package Manager
 - 🔨 [Yarn](https://yarnpkg.com/en/) · NPM improved
 
@@ -96,6 +101,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 - 👨‍💻 [Bash-it](https://github.com/Bash-it/bash-it) · Framework for your Bash shell
 - 👨‍💻 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) · Framework for your zsh shell
+- [htrace.sh](https://github.com/trimstray/htrace.sh) · Simple shell script to debugging http/https connection tracing, response headers and mixed-content
+- [nGrok](https://ngrok.com/) · One command for an instant, secure URL to your localhost server through any NAT or firewall
 - 🔨 [Git](https://git-scm.com/) · Control version
     - 🔨 [GitHub](https://github.com/) · Largest community of developers and open source projects
     - 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
@@ -114,10 +121,14 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## Servers
 
 - ☁ [DigitalOcean](https://www.digitalocean.com/) · Deploy, manage and scale cloud apps on your infrastructure
+- ☁ [Amazon (AWS)](https://aws.amazon.com/es/) · Build, manage and deploy powerful cloud servers
+- ☁ [Google Cloud](https://cloud.google.com/) · Build, innovate, and scale with Google Cloud Platform
+- ☁ [Azure](https://azure.microsoft.com/) ·  Cloud computing service for building, testing, deploying, and managing apps
 - ☁ [CloudFlare CDN](https://www.cloudflare.com/cdn/) · Fast and free global content delivery network
 - ☁ [MaxCDN](https://www.stackpath.com/maxcdn/) · Easy and economic content delivery network
 - ☁ [Docker](https://www.docker.com/) · Build, Manage and Secure your apps
     - ☁ [Docker Compose](https://docs.docker.com/compose/install/) · Tool for define and running multi-container Docker apps
+    - 🔨 [ctop](https://ctop.sh/) · Concise commandline monitoring for containers
     - ☁ [Kubernetes](https://kubernetes.io/) · Open source system for automating deployment, scaling and management containers
 
 ## Static Web / CMS / Doc Generators
