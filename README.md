@@ -46,7 +46,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 📄 [LenguajeCSS](https://lenguajecss.com/) · CSS CheatSheet & Docs
 - 💎 [CanIUse](https://caniuse.com/) · Can I use this on my browser?
 - 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
-- [Emotion CSS-in-JS](https://emotion.sh/) · The Next Generation of CSS-in-JS
+- 🔨 [Emotion CSS-in-JS](https://emotion.sh/) · The Next Generation of CSS-in-JS
 
 ### PostCSS
 
@@ -57,8 +57,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## Javascript
 
 - 📄 [LenguajeJS](https://lenguajejs.com/) · Javascript CheatSheet & Docs
-- 💬 [CDNjs](https://cdnjs.com/) · Javascript & CSS libraries hosted on Cloudflare CDN 
-- 💎 [JavaScript Equaility Table Game](https://slikts.github.io/js-equality-game/ ·
+- 💬 [CDNjs](https://cdnjs.com/) · Javascript & CSS libraries hosted on Cloudflare CDN
+- 💎 [JavaScript Equaility Table Game](https://slikts.github.io/js-equality-game/) · JS Equality Game
 - 🔨 [Terser](https://github.com/terser-js/terser) · Javascript ES6 minifier
 - 💬 [30secondsofcode.org](https://30secondsofcode.org/) · Collection of Javascript snippets
 
@@ -71,7 +71,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 ## Seguridad
 
-- 📘 [Parte 1](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-1/) <br> 📘 [Parte 2](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-2/) · Cómo implementar la seguridad en tu API
+- 📘 [Parte 1](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-1/) [Parte 2](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-2/) · Cómo implementar la seguridad en tu API
 
 # ⚡ DevOps
 
