@@ -109,6 +109,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
     - 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
 - 🔨 [HomeBrew](https://brew.sh/index_es.html) · Package Manager for MacOS
 - 🔨 [Chocolatey](https://chocolatey.org/) · Package Manager for Windows
+- 🔨 [TheFuck](https://github.com/nvbn/thefuck) · Efficiency tool to handle misspelling bash commands
+- 🔨 [tmux](https://github.com/tmux/tmux/wiki) · Utility to split command line area into spaces
 
 ## Bundlers
 
