@@ -32,6 +32,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 # ⚡ Front-end
 
+- 📄 [Web Developer Roadmap](https://github.com/ManzDev/roadmap-web-developer-2017) · A web developer Roadmap
+
 ## HTML5
 
 - 📄 [LenguajeHTML](https://lenguajehtml.com/) · HTML CheatSheet & Docs
@@ -152,7 +154,6 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - ☁ [Azure](https://azure.microsoft.com/) ·  Cloud computing service for building, testing, deploying, and managing apps
 
 **CDN Providers**
-
 - ☁ [CloudFlare CDN](https://www.cloudflare.com/cdn/) · Fast and free global content delivery network
 - ☁ [MaxCDN](https://www.stackpath.com/maxcdn/) · Easy and economic content delivery network
 
