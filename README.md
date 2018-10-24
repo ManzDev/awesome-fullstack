@@ -104,9 +104,16 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 ## Terminal
 
+**GNU/Linux**
+- 💿 [Debian](https://www.debian.org/) · Free operating system for your computer or server
+- 💿 [Alpine](https://alpinelinux.org/) · Linux for power users who appreciate security, simplicity and resource efficiency
+- 💿 [BusyBox](https://www.busybox.net/) · Tiny versions of many common UNIX utilities into a single small executable
+
 **Shells**
 - 👨‍💻 [Bash-it](https://github.com/Bash-it/bash-it) · Framework for your Bash shell
 - 👨‍💻 [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) · Framework for your zsh shell
+- 👨‍💻 [Putty](https://www.putty.org/) · A SSH client for Windows
+- 👨‍💻 [ASCIInema](https://asciinema.org/) · Record and share your terminal sessions, the right way
 
 **Tools/Commands**
 - 👨‍💻 [htrace.sh](https://github.com/trimstray/htrace.sh) · Simple shell script to debugging http/https connection tracing, response headers and mixed-content
@@ -189,5 +196,6 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 📄 [OverAPI](http://overapi.com/) · Interactive Cheat Sheets
 
 **Others**
-- 🆓 [PacktPub: Libros/Ebooks](https://www.packtpub.com/packt/offers/free-learning) · Free daily ebook 
+- 🆓 [PacktPub: Libros/Ebooks](https://www.packtpub.com/packt/offers/free-learning) · Free daily ebook
+- 🔨 [Draw.io](https://draw.io) · Free online diagram software for making flowcharts, diagrams and charts
 - 🎓 [Education Pack GitHub](https://education.github.com/pack/join) · GitHub Student Pack Page
