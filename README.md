@@ -36,11 +36,15 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 ## HTML5
 
+**HTML**
 - 📄 [LenguajeHTML](https://lenguajehtml.com/) · HTML CheatSheet & Docs
 - 🔌 [EMMET](https://emmet.io/) · Plugin for many popular text editors which greatly improves HTML & CSS workflow
     - 📙 [Guía rápida de EMMET](https://bit.ly/guiaemmet) · Fast tips and code for create HTML with EMMET
 - 🔨 [Real Favicon Generator](https://realfavicongenerator.net/) · Fast favicon generator from one image to multiple devices
 - 🔨 [Pug](https://pugjs.org/) · Robust, elegant, feature rich template engine for Node.js
+
+**Markdown**
+- 📘 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) · A lightweight and easy-to-use syntax for styling text
 
 ## CSS3
 
@@ -98,6 +102,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🔒 [EnPass](https://www.enpass.io/) · Secure passwords with Enpass password manager
 - 🔒 [MiniKeePass](https://minikeepass.github.io/) · KeePass for iPhone
 - 🔒 [LastPass](https://www.lastpass.com/) · Don't forget passwords with a online password manager
+- 🔒 [BitWarden](https://bitwarden.com/) · Store, share, and sync sensitive data
 
 **Tips**
 - 📘 [Parte 1](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-1/) [Parte 2](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-2/) · Cómo implementar la seguridad en tu API
@@ -197,6 +202,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 📄 [OverAPI](http://overapi.com/) · Interactive Cheat Sheets
 
 **Others**
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/) · A curated collection of common web development interview questions to help you prepare for your next interview
 - 🆓 [PacktPub: Libros/Ebooks](https://www.packtpub.com/packt/offers/free-learning) · Free daily ebook
 - 🔨 [Draw.io](https://draw.io) · Free online diagram software for making flowcharts, diagrams and charts
 - 🎓 [Education Pack GitHub](https://education.github.com/pack/join) · GitHub Student Pack Page
