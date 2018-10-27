@@ -23,11 +23,12 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🌟 [VSCode SETI Monokai](https://github.com/smukkekim/vscode-setimonokai-theme) · SETI Monokai Theme for VSCode
 
 **Extensions**
-- 🔌 [VSCode Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) · Sync your VSCode Settings on cloud 
-  * 📘 [Tutorial VSCode Sync Settings](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
+- 🔌 [VSCode Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) · Sync your VSCode Settings on cloud 📘 [Tutorial](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
 - 🔌 [VSCode Emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) · Emoji autocomplete
 - 🔌 [VSCode Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) · Calc cost to import dependencies
 - 🔌 [VSCode IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) · IDEA Keybindings for VSCode
+- 🔌 [VSCode Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) · Adds syntax for Dockerfile and docker-compose files
+- 🔌 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) · Icons for Visual Studio Code
 - 📘 [VSCode User defined Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) · Create your own snippets
 
 # ⚡ Front-end
@@ -75,6 +76,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 💎 [ES6 Kangax Table](https://kangax.github.io/compat-table/es6/) · Kangax ES6 Compatibility table
 - 🔨 [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
 - 🔨 [BabelJS](https://babeljs.io/) · Use next generation JavaScript, today
+- 🔨 [Jest](https://jestjs.io/) · Delightful JavaScript Testing
 
 ## React
 
@@ -202,7 +204,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 📄 [OverAPI](http://overapi.com/) · Interactive Cheat Sheets
 
 **Others**
-- [30 Seconds of Interviews](https://30secondsofinterviews.org/) · A curated collection of common web development interview questions to help you prepare for your next interview
+- 📄 [30 Seconds of Interviews](https://30secondsofinterviews.org/) · A curated collection of common web development interview questions to help you prepare for your next interview
 - 🆓 [PacktPub: Libros/Ebooks](https://www.packtpub.com/packt/offers/free-learning) · Free daily ebook
 - 🔨 [Draw.io](https://draw.io) · Free online diagram software for making flowcharts, diagrams and charts
 - 🎓 [Education Pack GitHub](https://education.github.com/pack/join) · GitHub Student Pack Page
