@@ -17,19 +17,27 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 # ⚡ VSCode / Editors
 
-**Themes**
+**VSCode Themes**
 - 🌟 [Dracula Theme](https://draculatheme.com/) ·  A dark theme
 - 🌟 [Rainglow](https://rainglow.io/) · 320 themes for Text editors
-- 🌟 [VSCode SETI Monokai](https://github.com/smukkekim/vscode-setimonokai-theme) · SETI Monokai Theme for VSCode
+- 🌟 [SETI Monokai](https://github.com/smukkekim/vscode-setimonokai-theme) · SETI Monokai Theme for VSCode
 
-**Extensions**
-- 🔌 [VSCode Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) · Sync your VSCode Settings on cloud 📘 [Tutorial](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
-- 🔌 [VSCode Emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) · Emoji autocomplete
-- 🔌 [VSCode Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) · Calc cost to import dependencies
-- 🔌 [VSCode IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) · IDEA Keybindings for VSCode
-- 🔌 [VSCode Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) · Adds syntax for Dockerfile and docker-compose files
-- 🔌 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) · Icons for Visual Studio Code
-- 📘 [VSCode User defined Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) · Create your own snippets
+**VSCode Extensions**
+- 🔌 [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) · Sync your VSCode Settings on cloud 📘 [Tutorial](http://shanalikhan.github.io/2015/12/15/Visual-Studio-Code-Sync-Settings.html)
+- 🔌 [Emojisense](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) · Emoji autocomplete
+- 🔌 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) · Calc cost to import dependencies
+- 🔌 [IntelliJ IDEA Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) · IDEA Keybindings for VSCode
+- 🔌 [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) · Adds syntax for Dockerfile and docker-compose files
+- 🔌 [Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) · Icons for Visual Studio Code
+- 🔌 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) · A customizable extension for colorizing matching brackets
+- 🔌 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) · Computes complexity in TypeScript / JavaScript files
+- 🔌 [Duplicate action](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-duplicate) · Ability to duplicate files in VS Code
+- 🔌 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) · Integrates ESLint JavaScript into VS Code
+- 🔌 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) · Improve your code commenting by annotating
+- 🔌 [PostCSS Sorting](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-postcss-sorting) · VS Code plugin to sort CSS rules content with specified order
+- 🔌 [File-size](https://marketplace.visualstudio.com/items?itemName=zh9528.file-size) · Show the current text file size in the status bar
+- 🔌 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) · Vue tooling for VS Code
+- 📘 [User defined Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) · Create your own snippets
 
 # ⚡ Front-end
 
@@ -62,9 +70,11 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
     - 🔌 [PostCSS-mixins](https://github.com/postcss/postcss-mixins) · PostCSS plugin for mixins (CSS functions)
     - 🔌 [PostCSS-font-magician](https://github.com/jonathantneal/postcss-font-magician) · Magically generate all the @font-face rules
     - 🔌 [PostCSS-easy-import](https://github.com/trysound/postcss-easy-import) · Inline @import rules content with extra features
-    - 🔌 [PostCSS-](https://github.com/leodido/postcss-clean) · PostCSS plugin to minify your CSS with clean-css
+    - 🔌 [PostCSS-clean](https://github.com/leodido/postcss-clean) · PostCSS plugin to minify your CSS with clean-css
+    - 🔌 [PostCSS-sorting](https://github.com/hudochenkov/postcss-sorting) · PostCSS plugin to keep rules and at-rules content in order
     - 🔌 [SugarSS](https://github.com/postcss/sugarss) · Indentation-based CSS syntax for PostCSS
     - 🔌 [PostCSS-trolling](https://github.com/juanfran/postcss-trolling) · Change all to Comic Sans font
+- 🔨 [CSSComb](http://csscomb.com/)
 
 ## Javascript
 
@@ -74,14 +84,25 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🔨 [Terser](https://github.com/terser-js/terser) · Javascript ES6 minifier
 - 💬 [30secondsofcode.org](https://30secondsofcode.org/) · Collection of Javascript snippets
 - 💎 [ES6 Kangax Table](https://kangax.github.io/compat-table/es6/) · Kangax ES6 Compatibility table
-- 🔨 [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
 - 🔨 [BabelJS](https://babeljs.io/) · Use next generation JavaScript, today
-- 🔨 [Jest](https://jestjs.io/) · Delightful JavaScript Testing
+- ✔️ [ESLint](https://eslint.org/) · The pluggable linting utility for JavaScript and JSX
+    - 🛁 [Clean Code](https://github.com/ryanmcdermott/clean-code-javascript/) · Clean Code concepts adapted for JavaScript
+    - ✔️ [Jest](https://jestjs.io/) · Delightful JavaScript Testing
+    - ✔️ [️ES6 Katas](http://es6katas.org/) · Learn ES6 by doing it. Fix failing tests. Keep all learnings
+- 🔨 [MythBusters](https://mythbusters.js.org/) · A JavaScript Handbook exploring perfomance & readibility
+
+## Components
+
+- 🔨 [Elix Components](https://component.kitchen/elix) · Open collection of HQ web components for common user interface patterns
+- 🔨 [MoleculeJS](https://moleculejs.org/) · Declarative, flexible Custom Elements
 
 ## React
 
 - 🔨 [ReactJS](https://reactjs.org/) · A JavaScript library for building user interfaces
+    - 📅 [React Conf](https://conf.reactjs.org/)
+    - 📄 [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - 🔨 [Emotion CSS-in-JS](https://emotion.sh/) · The Next Generation of CSS-in-JS
+- 🔨 [Styled Components](https://www.styled-components.com/)
 
 ## Vue
 
@@ -89,6 +110,14 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
     - 🔌 [Chrome VueJS extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) · DevTools extension for debugging Vue.js apps
 
 # ⚡ Back-end
+
+## PHP
+
+- 🐘 [PHP](http://php.net) · Fast, flexible and pragmatic language programming
+- 🐘 [PHP-Fig](https://www.php-fig.org/) · PHP Standard Recommendations
+    - 🐘 [PSR-4: Autoload](https://www.php-fig.org/psr/psr-4/) · Autoloading classes from file paths
+- 💬 [Learn PHP: Modern way](https://odan.github.io/learn-php/)
+    - 🐘 [Laravel](https://laravel.com/) · The PHP Framework For Web Artisans
 
 ## NodeJS
 
@@ -105,6 +134,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🔒 [MiniKeePass](https://minikeepass.github.io/) · KeePass for iPhone
 - 🔒 [LastPass](https://www.lastpass.com/) · Don't forget passwords with a online password manager
 - 🔒 [BitWarden](https://bitwarden.com/) · Store, share, and sync sensitive data
+- 🔒 [QtPass](https://qtpass.org/) · Multi-platform GUI for pass, the standard unix password manager
 
 **Tips**
 - 📘 [Parte 1](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-1/) [Parte 2](https://programar.cloud/post/como-implementar-la-seguridad-en-tu-api-parte-2/) · Cómo implementar la seguridad en tu API
@@ -129,12 +159,17 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 👨‍💻 [nGrok](https://ngrok.com/) · One command for an instant, secure URL to your localhost server through any NAT or firewall
 - 🔨 [TheFuck](https://github.com/nvbn/thefuck) · Efficiency tool to handle misspelling bash commands
 - 🔨 [tmux](https://github.com/tmux/tmux/wiki) · Utility to split command line area into spaces
-- 🔨 [htop](https://hisham.hm/htop/) · Interactive process viewer for Unix
+- 📈 [htop](https://hisham.hm/htop/) · Interactive process viewer for Unix
 
 **Control version**
 - 🔨 [Git](https://git-scm.com/) · Control version
     - 🔨 [GitHub](https://github.com/) · Largest community of developers and open source projects
     - 🔌 [Gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) · Emojis for you Git commits
+
+**CI**
+- 🔨 [Travis](https://travis-ci.org/) · Easily sync your GitHub projects with Travis CI and testing your code
+- 🔨 [Jenkins](https://jenkins.io/) · Build great things at any scale
+- 🔨 [CircleCI](https://circleci.com/) · Automate your development process quickly, safely, and at scale
 
 **Package Managers**
 - 🔨 [HomeBrew](https://brew.sh/index_es.html) · Package Manager for MacOS
@@ -143,7 +178,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## Bundlers
 
 **Bundlers**
-- 📦 [Webpack](https://webpack.js.org/) · Bundle your scripts, styles, assets, images and others. 
+- 📦 [Webpack](https://webpack.js.org/) · Bundle your scripts, styles, assets, images and others.
 - 📦 [ParcelJS](https://parceljs.org/) · Blazing fast zero config webapp bundler.
     - 📜 [Parcel Document Blank](https://github.com/ManzDev/parcel-document-blank) · Parcel template for front-end projects (with preprocessors)
     - 🔌 [Parcel Bundle Visualiser](https://github.com/gregtillbrook/parcel-plugin-bundle-visualiser) · A plugin for the parcel bundler to visualise bundle contents
@@ -165,10 +200,12 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - ☁ [MaxCDN](https://www.stackpath.com/maxcdn/) · Easy and economic content delivery network
 
 **Docker**
-- ☁ [Docker](https://www.docker.com/) · Build, Manage and Secure your apps
+- 🐳 [Docker](https://www.docker.com/) · Build, Manage and Secure your apps
+    - ☁ [Docker Hub](https://hub.docker.com) · Dev-test pipeline automation, 100,000+ free apps, public and private registries
     - ☁ [Docker Compose](https://docs.docker.com/compose/install/) · Tool for define and running multi-container Docker apps
-    - 🔨 [ctop](https://ctop.sh/) · Concise commandline monitoring for containers
+    - 📈 [ctop](https://ctop.sh/) · Concise commandline monitoring for containers
     - ☁ [Kubernetes](https://kubernetes.io/) · Open source system for automating deployment, scaling and management containers
+    - ✔️ [FromLatest](https://www.fromlatest.io/) · An opinionated Dockerfile linter. Web version of [dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
 
 ## Static Web / CMS / Doc Generators
 
@@ -179,6 +216,8 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 **Alternative CMS**
 - 📂 [GetGrav](https://getgrav.org/) · Grav CMS
+- 📂 [Gatsby: React CMS](https://www.gatsbyjs.org/)
+- 📂 [Gridsome: Vue CMS](https://gridsome.org/)
 
 # ⚡ Events
 
@@ -202,6 +241,13 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 **CheatSheets**
 - 📄 [Rico Cheatsheets](https://devhints.io/) · Collection of interactive cheatsheets
 - 📄 [OverAPI](http://overapi.com/) · Interactive Cheat Sheets
+
+**Images**
+- ✏️ [Carbon](https://carbon.now.sh/) · Create and share beautiful images of your source code
+
+**Humor**
+- 🤣 [XKCD](https://xkcd.com/) · A webcomic of romance, sarcasm, math, and language
+- 🤣 [CommitStrip](http://www.commitstrip.com/) · The blog relating the daily life of web agency developers
 
 **Others**
 - 📄 [30 Seconds of Interviews](https://30secondsofinterviews.org/) · A curated collection of common web development interview questions to help you prepare for your next interview
