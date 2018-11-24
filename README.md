@@ -107,7 +107,22 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 ## Vue
 
 - 🔨 [VueJS](https://vuejs.org/) · A Progressive JavaScript Framework
+    - 📄 [VueJS v2 Guide](https://vuejs.org/v2/guide/) · VueJS 2.0 Guide
+    - 📄 [Class/Style bindings](https://vuejs.org/v2/guide/class-and-style.html) · Classes with VueJS
+    - 📄 [SFC: Single File Components](https://vuejs.org/v2/guide/single-file-components.html) · Single File Components
     - 🔌 [Chrome VueJS extension](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) · DevTools extension for debugging Vue.js apps
+    - 🔌 [Babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) · Babel plugin for Vue 2.0 JSX
+    - 🔌 [Vue-loader](https://github.com/vuejs/vue-loader) · Webpack loader for Vue.js components
+    - 🔌 [Vue-resource](https://github.com/pagekit/vue-resource) · The HTTP client for Vue.js
+    - 🔌 [Axios](https://github.com/axios/axios) · Promise based HTTP client for the browser and node.js
+- 🔨 [Vue CLI 3](https://cli.vuejs.org/) · Standard Tooling for Vue.js Development
+- 🔨 [Vue Router](https://router.vuejs.org/) · Official router for Vue.js
+    - 🔨 [Page.js router](https://github.com/visionmedia/page.js) · Tiny ~1200 byte Express-inspired client-side router
+    - 🔨 [Director router](https://github.com/flatiron/director) · A tiny and isomorphic URL router for JavaScript
+- 🔨 [Vuex](https://vuex.vuejs.org/) · State management pattern + library for Vue.js apps
+- 🔨 [SSR](https://ssr.vuejs.org/) · Server Side Rendering for Vue.js
+- 🔨 [Nuxt](https://nuxtjs.org/) · A framework for Vue.js framework.
+- 💬 [Awesome Vue](https://github.com/vuejs/awesome-vue) · A curated list of awesome things related to Vue.js
 
 # ⚡ Back-end
 
