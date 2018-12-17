@@ -98,6 +98,7 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 
 ## React
 
+- 🔨 [Create React App](https://facebook.github.io/create-react-app/) · A ready-to-go React application creator (by running one command)
 - 🔨 [ReactJS](https://reactjs.org/) · A JavaScript library for building user interfaces
     - 📅 [React Conf](https://conf.reactjs.org/)
     - 📄 [React Hooks](https://reactjs.org/docs/hooks-intro.html)
