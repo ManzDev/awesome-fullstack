@@ -214,6 +214,9 @@ A list of curated resources related to FullStack · Frontend, Backend and DevOps
 - 🔨 [Jenkins](https://jenkins.io/) · Build great things at any scale
 - 🔨 [CircleCI](https://circleci.com/) · Automate your development process quickly, safely, and at scale
 
+**CD**
+- 🔨 [Humanitec](https://humanitec.com) · The Continuous Delivery API for Kubernetes-ready applications
+
 **Package Managers**
 - 🔨 [HomeBrew](https://brew.sh/index_es.html) · Package Manager for MacOS
 - 🔨 [Chocolatey](https://chocolatey.org/) · Package Manager for Windows
